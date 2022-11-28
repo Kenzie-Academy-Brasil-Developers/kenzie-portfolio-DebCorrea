@@ -24,7 +24,6 @@ import {
   ProjectAreaWrapperColumns,
 } from "./style";
 
-
 export const Home = (): JSX.Element => {
   return (
     <main>
@@ -35,9 +34,11 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
-              de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+              Apaixonada por inovação e desenvolvimento, quero participar da
+              evolução da tecnologia com boas práticas e o usuário sempre em
+              mente. Sou estudante de programação na Kenzie Academy Brasil,
+              participei de diversos projetos, solucionando problemas de alto
+              nível e desenvolvendo soft e hard skills.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
@@ -70,9 +71,8 @@ export const Home = (): JSX.Element => {
                 Vamos trocar uma ideia?
               </Text>
               <Text as="p" type="body1" color="grey2">
-                No linkedIn sempre estou compartilhando meus processos diários
-                para desenvolver esses projetos e estou disposto a trocar
-                algumas ideias por lá
+                No linkedIn sempre estou ativa e estou disposta a trocar algumas
+                ideias por lá
               </Text>
               <Button
                 type="primary"
