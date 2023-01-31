@@ -12,6 +12,8 @@ import { SiPostgresql } from "react-icons/si";
 import { BiGitMerge } from "react-icons/bi";
 import { AiFillGithub } from "react-icons/ai";
 import { SiRedux } from "react-icons/si";
+import { SiTailwindcss } from "react-icons/si";
+import { SiPrisma } from "react-icons/si";
 
 export const stackData = [
   {
@@ -73,5 +75,13 @@ export const stackData = [
   {
     title: "Context",
     img: FaReact,
+  },
+  {
+    title: "Tailwind CSS",
+    img: SiTailwindcss,
+  },
+  {
+    title: "Prisma",
+    img: SiPrisma,
   },
 ];
