@@ -36,9 +36,10 @@ export const Home = (): JSX.Element => {
             <Text type="body1" color="grey6">
               Apaixonada por inovação e desenvolvimento, quero participar da
               evolução da tecnologia com boas práticas e o usuário sempre em
-              mente. Sou estudante de programação na Kenzie Academy Brasil,
+              mente. Sou Desenvolvedora Web Full Stack Jr e, pela Kenzie Academy Brasil,
               participei de diversos projetos, solucionando problemas de alto
               nível e desenvolvendo soft e hard skills.
+              
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
